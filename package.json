@@ -1,0 +1,9 @@
+{
+  "name": "police-box",
+  "description": "Watches specified files for changes that may indicate a compromised system.  Will run scripts upon detection to notify you and otherwise respond to the situation.",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "blueimp-md5": "*"
+  }
+}
